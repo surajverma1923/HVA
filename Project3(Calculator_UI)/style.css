@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(243, 235, 237);
+    background-color:yellow;
 }
 table{
     margin:110px 50px 30px 500px;
@@ -7,7 +7,7 @@ table{
     
 }
 table,td {
-        border: 3px solid black;
+        border: 3px solid blue;
         text-align: center;
      }
 td{
@@ -23,9 +23,9 @@ padding: 20px;
 margin: auto;
 }
 button{
-    font-size:20px;
-    height:40px;
-    width:40px;
+    font-size:30px;
+    height:50px;
+    width:70px;
 }
 
 
